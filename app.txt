@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "web_url": "https:\/\/example.com",
         "app_version": "1",
-        "message": "We are working hard to give you a free stream, so please give us a 5-star \ud83c\udf20 rating; it really helps us a lot.",
+        "message": "\ud83d\udce2 We\u2019ve Changed Our Name!\n\nFormerly Dofu, now VersyLive. Please remember our new name! \u2764\ufe0f you will never miss nfl and more streams on versy ",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "bottom_visible": "no",
