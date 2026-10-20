@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "web_url": "https:\/\/example.com",
         "app_version": "1",
-        "message": "\ud83d\udce2 New Update Available. ",
+        "message": "\ud83d\udce2 New update available. If you have already updated, just ignore this message.",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "bottom_visible": "no",
